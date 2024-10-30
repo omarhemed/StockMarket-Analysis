@@ -1,6 +1,12 @@
 # Stock Market Trend Analysis 
 
-This project analyzes historical stock data for selected companies (AAPL, GOOGL, MSFT, and AMZN), providing a clear statistical summary of each stock's performance over a year. The output includes daily values such as adjusted close, high, low, open prices, and trading volume, along with descriptive statistics that give insights into the stock's behavior.
+This project was created by Omar Hemed and it analyzes historical stock data for selected companies (AAPL, GOOGL, MSFT, and AMZN), providing a clear statistical summary of each stock's performance over a year. This project was built from scratch to demonstrate my ability to handle real-world financial data, create meaningful insights, and visually communicate trends in stock prices.
+
+
+## Author
+- Omar Hemed
+- GitHub: omarhemed
+- Contact: omarhemed1@hotmail.com
 
 ## Output Description
 1. Once you run the code, it will fetch historical stock data for each of the chosen stocks, displaying information as follows:
@@ -30,10 +36,11 @@ This data provides an in-depth look at the stocks' historical performances, allo
 ## How to Run This Code
 Follow these steps to set up and run the project on your system:
 
-Open gitbash or any terminal and run the following:
+Open a Terminal (Git Bash, Command Prompt, or any terminal of your choice) and navigate to your Desktop:
 ```
 cd Desktop
 ```
+Clone the Repository by running:
 ```
 git clone https://github.com/omarhemed/StockMarket-Analysis.git
 ```
@@ -43,7 +50,17 @@ After you succesfully clone the file into your dekstop open it in vscode or your
 cd venv
 ```
 ```
-
+python stock_analysis.py
 ```
+View the Results – The script will output statistical summaries and display visualizations of stock data for multiple companies.
+
+Enjoy analyzing stock trends and exploring the charts!
+
+
+
+
+
+
+
 
 
