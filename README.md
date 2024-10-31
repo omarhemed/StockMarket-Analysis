@@ -57,6 +57,15 @@ View the Results – The script will output statistical summaries and display vi
 Enjoy analyzing stock trends and exploring the charts!
 
 
+Examples Results: 
+
+
+
+![Figure_2](https://github.com/user-attachments/assets/b7c03a4e-ae0a-4e24-ade8-bb749f4a3b7a)
+![Figure_3](https://github.com/user-attachments/assets/686fb680-a5e3-4166-99cf-6fcef46cc69f)
+![Figure_4](https://github.com/user-attachments/assets/568addb1-7e8b-4694-935d-b122273a14dd)
+
+
 
 
 
